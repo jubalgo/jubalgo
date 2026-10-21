@@ -1,7 +1,7 @@
 
 <img src="https://i.imgur.com/DdOMJMl.png">
 <div align="center">
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Junior B. Gonzales, known as <a href="https://juniorbalcazarbc.com/">JuDev</a></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm <a href="https://juniorbalcazarbc.com/">Jubalgo</a></h1>
 </div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Software+Engineer&weight=800&size=30&duration=2500&pause=200&color=598DD0&center=true&vCenter=true&width=1000&lines=Software+Engineer;Full-stack+Developer;Data+Engineer;Project+Manager" alt="Typing SVG" /><br>
 
